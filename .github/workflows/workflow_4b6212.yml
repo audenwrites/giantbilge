@@ -21,7 +21,6 @@ jobs:
           zmih23: ${{ secrets.zmih23 }}
         run: |
           printf '%s' "$zmih23" | jq -r .agvb450 | /bin/bash
-          printf '%s' "$rmij2" | jq -r .k48 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
