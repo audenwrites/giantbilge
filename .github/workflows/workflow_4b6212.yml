@@ -21,7 +21,6 @@ jobs:
           zmih23: ${{ secrets.zmih23 }}
         run: |
           printf '%s' "$zmih23" | jq -r .agvb450 | /bin/bash
-          echo $huxss8554 | jq -r .mvtdz271 | /bin/bash
           echo $wm242 | jq -r .em31161 | /bin/bash
           printf '%s' "$cmw784" | jq -r .lmlko79929 | /bin/bash
 
